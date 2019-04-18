@@ -1,4 +1,2 @@
-# Initial page
-
-Just for test
+# SUSTech CS201 self-study page
 
